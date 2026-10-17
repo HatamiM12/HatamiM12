@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm MohammadReza 👋
 
-<!--
-**HatamiM12/HatamiM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical engineering student at Islamic Azad University (Science and Research Branch), Tehran, moving into **AI and software engineering**. I'm looking for a **remote internship** where I can build real things and learn from a team.
 
-Here are some ideas to get you started:
+## What I'm working on
+- **Research:** working with Prof. Reza Samaei on a project that applies **machine learning to Structural Health Monitoring (SHM)**
+- Learning **classical machine learning** and AI engineering with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+- **Tools:** Python · Linux · Git · SolidWorks · NumPy · Matplotlib
+- **Learning:** classical ML · Supervised & Unsupervised Learning
+
+## Background
+- CEO of Chenge (startup team) — presented at TeenExpo; semifinalist at Danova-Teen Expo
+- Led a 10-person team on a SolidWorks crane design project
+- Harvard CS50 · freeCodeCamp Scientific Computing with Python (in progress)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mohammadreza-hatami-galaxy) · m.12.r.hatami@gmail.com
+
+
+
