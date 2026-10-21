@@ -1,3 +1,5 @@
+![image alt](https://github.com/HatamiM12/HatamiM12/blob/2a432e8fef1de6d36ff8ccc4b425017d2290464c/ai-engineering-banner.png)
+
 # Hi, I'm MohammadReza 👋
 
 Mechanical engineering student at Islamic Azad University (Science and Research Branch), Tehran, moving into **AI and software engineering**. I'm looking for a **remote internship** where I can build real things and learn from a team.
